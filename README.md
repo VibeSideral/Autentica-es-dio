@@ -1,6 +1,5 @@
 # Autenticações - dio
 
-Via Token
-Via SSH
-
+Via Token - OK
+Via SSH - OK
 Criação de repositórios e treino nas autentificações
