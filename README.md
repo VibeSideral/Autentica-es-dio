@@ -9,7 +9,7 @@
 
 ![Shadow2](https://c.tenor.com/8OvxerFeQLYAAAAC/tenor.gif)
 
-# Habilidades
+# Habilidades e Stats
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VibeSideral&show_icons=true&theme=transparent)
 
