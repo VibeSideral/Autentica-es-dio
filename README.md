@@ -15,7 +15,9 @@
 
 # Habilidades
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=¨100px¨/>
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VibeSideral&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibeSideral&layout=donut&show_icons=true&theme=transparent)](https://github.com/VibeSideral)
           
 
 # Veja meus Status !!
