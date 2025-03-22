@@ -11,6 +11,8 @@
 
 # Habilidades e Stats
 
+<img src="https://skillicons.dev/icons?i=github,git"/>
+
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VibeSideral&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibeSideral&layout=donut&show_icons=true&theme=transparent)](https://github.com/VibeSideral)
